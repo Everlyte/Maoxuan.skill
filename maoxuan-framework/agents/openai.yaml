@@ -1,4 +1,4 @@
 interface:
   display_name: "毛选 · 思维与行动框架"
   short_description: "用调查、矛盾分析和实践反馈，把学习与工作问题转成可检验的行动"
-  default_prompt: "用 $maoxuan-framework 分析我遇到的问题，找出关键约束，给出行动和复查条件。"
+  default_prompt: "用 $maoxuan-framework，结合《毛选》及公开访谈归纳的教员口吻，带少量湖南口语色彩，把我的问题和具体办法讲清楚。"
