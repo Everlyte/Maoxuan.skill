@@ -6,7 +6,7 @@
 |---|---|---|
 | 反对本本主义；一；1930-05 | [mx0107.tex](https://github.com/qinglee/maoxuan/blob/3080b0dae8c94d5a8c6751c95c074b305256f686/maoxuan/mx0107.tex) | 全文主体，注释仅部分 |
 | 实践论；一；1937-07 | [mx0117.tex](https://github.com/qinglee/maoxuan/blob/3080b0dae8c94d5a8c6751c95c074b305256f686/maoxuan/mx0117.tex) | 开头实践标准、感性理性关系、返回实践与结尾循环段落 |
-| 矛盾论；一；1937-08 | [mx0118.tex](https://github.com/qinglee/maoxuan/blob/3080b0dae8c94d5a8c6751c95c074b305256f686/maoxuan/mx0118.tex) | 第一、三、四、六节关键段落及结论 |
+| 矛盾论；一；1937-08 | [mx0118.tex](https://github.com/qinglee/maoxuan/blob/3080b0dae8c94d5a8c6751c95c074b305256f686/maoxuan/mx0118.tex) | 2026-09-23增量核验：引言、七节正文全文、题注及37条注释，三者分开；底本为收入选集时修改后的文本，不是讲演逐字稿 |
 | 改造我们的学习；三；1941-05-19 | [mx0302.tex](https://github.com/qinglee/maoxuan/blob/3080b0dae8c94d5a8c6751c95c074b305256f686/maoxuan/mx0302.tex) | 第三、四节及前文相关段落 |
 | 关于领导方法的若干问题；三；1943-06-01 | [mx0313.tex](https://github.com/qinglee/maoxuan/blob/3080b0dae8c94d5a8c6751c95c074b305256f686/maoxuan/mx0313.tex) | 全文主体 |
 | 党委会的工作方法；四；1949-03-13 | [mx0459.tex](https://github.com/qinglee/maoxuan/blob/3080b0dae8c94d5a8c6751c95c074b305256f686/maoxuan/mx0459.tex) | 全文及注释 |
@@ -42,7 +42,7 @@
 
 用途：先区分问题性质，再选择方法。不得把所有不同意见处理成敌我对抗。
 
-细读边界：离线摘录只支撑以上局部解释。若用户要求逐段细读、完整论证或版本比较，应取得相应全文或用户指定版本；无法取得时明确可分析的范围，不补造未收录原句。
+细读边界：2026-09-23已取得并读完同一固定版本全文，逐节综合见[模型3方法论](../contradiction-method.md)。此处仍只保存局部短引；后续逐句引用或版本比较应读取相应全文或用户指定版本，不能凭摘要补造未收录原句，不能声称完成独立版本校勘。
 
 ## 改造我们的学习
 
